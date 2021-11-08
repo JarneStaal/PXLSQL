@@ -1,0 +1,2 @@
+INSERT INTO STATUUT(STAT_ID,STATUUT1,VERPLICHTING)
+VALUES (seq_statuut.Nextval,'tijdelijkeaan' ,'JA')
